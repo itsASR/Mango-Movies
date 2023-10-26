@@ -1,0 +1,23 @@
+<div className="sub-single-banner-main-div">
+                        <img src={mov}></img>
+                        <div className="top-10-movie-div-floating">
+                            
+                            <div className="top-10-movie-scroll">
+
+                                {
+                                    title.map((titles) => {
+                                        return <div className="top-10-movie-scroll1">
+                                            <div className="top10map">
+                                                <img src={imgfixpath + titles.poster_path}></img>
+                                            </div>
+
+                                        </div>
+                                    })
+                                }
+
+
+
+                            </div>
+                        </div>
+                        <div></div>
+                    </div>

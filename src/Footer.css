@@ -1,0 +1,81 @@
+
+
+
+
+ footer{
+    background-color: black;
+    width: 98.5vw;
+    height: 300px;
+    border-top: 1px solid white ;
+ }
+
+ 
+
+ .footer-contact p{
+    padding-top: 50px;
+    padding-left: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .footer-container{
+    /* width: 400px; */
+    /* background-color: black; */
+    display: flex;
+    flex-wrap: wrap;
+    /* padding-top: 50px; */
+    padding-left: 200px;
+    padding-right: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .footer-container p{
+    padding: 10px 70px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+
+ .credit{
+   width: 98.5vw;
+   display: flex;
+   background-color: black;
+   justify-content: center;
+   align-items: center;
+   padding: 20px 0;
+   
+ }
+
+
+ .footer-column1{
+   /* background-color: red; */
+   padding-left:15px;
+   
+ }
+
+ .footer-column1 p:hover{
+   cursor: pointer;
+   color: red;
+ }
+
+ .footer-column2 p:hover{
+   cursor: pointer;
+   color: red;
+ }
+
+ .footer-column3 p:hover{
+   cursor: pointer;
+   color: red;
+ }
+
+
+ .footer-column2{
+   /* background-color: red; */
+   padding: 0 4px;
+   padding-left: 62px;
+ }
+
+
+ .footer-column3{
+   /* background-color: red; */
+   /* padding: 0 30px; */
+   padding-left: 100px;
+ }

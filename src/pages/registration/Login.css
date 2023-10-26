@@ -1,0 +1,144 @@
+.auth-main{
+    position: relative;
+    overflow: hidden;
+    
+}
+
+.loginview{
+    position: relative;
+    width: 98.5vw;
+    height: 100vh;
+    overflow: hidden;
+    background-image: url("../../movie-background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+.flex-justify-center-items-center-h-screen{
+    position: absolute;
+    top: 40%;
+}
+
+
+.cross-div{
+    position: absolute;
+    top: 40%;
+    left: 62.5%;    
+}
+
+.cross-div p{
+    /* border-radius: 100%; */
+    border: 0px red solid;
+    color: black;
+    width: 0px;
+    height: 0px;
+    background-color: gray;
+}
+
+.cross-div p:hover{
+    color: red;
+}
+
+
+
+.cross-div2{
+    position: absolute;
+    top: 40%;
+    left: 62%;    
+}
+
+.cross-div2 p{
+    /* border-radius: 100%; */
+    border: 0px red solid;
+    color: black;
+    width: 0px;
+    height: 0px;
+    background-color: gray;
+}
+
+.cross-div2 p:hover{
+    color: red;
+}
+
+
+
+
+.flex-justify-center-items-center-h-screen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+
+
+.bg-gray-800-px-10-py-10-rounded-xl{
+    background-color: gray;
+    padding: 10px 10px;
+    /* width: 800px; */
+     
+    
+}
+
+.text-center-text-white-text-xl-mb-4-font-bold{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 4px;
+}
+
+
+.bg-gray-600-mb-4-px-2-py-2-w-full-lg-w-20em-rounded-lg-text-white-placeholder-text-gray-200-outline-none{
+    background-color: gray;
+    width: 200px;
+    margin: 4px;
+    
+    color: white;
+
+}
+
+::placeholder{
+    background-color: white;
+    color: gray;
+    outline: none;
+}
+
+.bg-yellow-500-w-full-text-black-font-bold-px-2-py-2-rounded-lg{
+    background-color: yellow;
+    /* width: 100%; */
+    color: black;
+    font-weight: bold;
+    padding: 3px 5px;
+    text-align: center;
+
+
+}
+
+.text-white{
+    color: white;
+}
+
+
+.text-yellow-500-font-bold{
+    color: yellow;
+    font-weight: bold
+}
+
+.flex-justify-center-mb-3{
+    display: flex;
+    justify-content: center;
+    margin: 3px;
+}
+
+
+.input-div{
+    display: flex;
+    justify-content: center;
+}
+
+
+.text-yellow-500-font-bold:hover{
+    color: black;
+    
+}

@@ -1,0 +1,55 @@
+.logo-div-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(18, 19, 18);
+    width: 98.5vw;
+    padding: 0 20px;
+    font-family: 'Young Serif', serif;
+}
+
+
+.sub-logo-div-header{
+    width: 105px;
+    height: 50px;
+}
+
+.sub-logo-div-header img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.below-header-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 98.5vw;
+    font-family: 'Young Serif', serif;
+    
+
+}
+
+
+.below-header-div p{
+    padding: 5px 20px;
+}
+
+.searchbtn{
+    /* width: 30px;
+    height: 25px; */
+    padding: 1px 10px;
+    background-color: rgba(255, 222, 173, 0);
+}
+
+
+.logout-btn{
+    background-color: rgba(0, 0, 0, 0);
+}
+
+
+
+.below-header-input-search{
+    width: 500px;
+}
