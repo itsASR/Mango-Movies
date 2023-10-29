@@ -5,7 +5,7 @@ import { consta } from '../App'
 import '../Moviepage.css'
 import Footer from '../Footer'
 import mov from '../movie-background.jpg'
-import './TVshowsmain.css'
+import './Tvshowsmain.css'
 
 
 function TVshowsmain() {
