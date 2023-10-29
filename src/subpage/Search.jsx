@@ -5,7 +5,7 @@ import { consta } from '../App'
 import Header from '../Header'
 import '../Moviepage.css'
 // import Footer from '../Footer'
-import './TVshowsmain.css'
+import './Tvshowsmain.css'
 
 function Search() {
   const { search, searchaxios, setsearchaxios, count, singledesc, setsingledesc } = useContext(consta)
